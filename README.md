@@ -1,6 +1,9 @@
-# Sentinel — On-device Visual Security Console
+# Git Group — Home of Technology
+### On-device Visual Security Console
 
-Sentinel turns a single webcam (or, with light changes, any browser-accessible
+CEO: Frank Ssemakula
+
+This console turns a single webcam (or, with light changes, any browser-accessible
 camera feed) into a live security monitoring console. Everything runs
 client-side in the browser:
 

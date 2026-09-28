@@ -1,5 +1,5 @@
 {
-  "name": "Sentinel",
+  "name": "Git Group — Home of Technology",
   "description": "On-device computer-vision security console: zone-intrusion, loitering and unattended-object detection plus watchlist face matching, all processed locally in the browser.",
   "requestFramePermissions": [
     "camera"
